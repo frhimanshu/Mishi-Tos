@@ -1,0 +1,107 @@
+Mishi Bot — Terms of Service
+
+Effective Date: November 24, 2026
+Last Updated: November 24, 2026
+
+These Terms of Service ("Terms") apply to your access to and use of Mishi ("the Bot"), a multipurpose Discord bot providing music, moderation, AutoMod, and server utility features.
+
+By inviting, accessing, or using Mishi, you agree to these Terms.
+
+1. Acceptable Use
+
+You agree to use Mishi only for lawful purposes and in accordance with Discord's Terms of Service and Community Guidelines.
+
+You must not:
+
+- Use Mishi to harass, threaten, or abuse other users.
+- Attempt to exploit, disrupt, or damage the Bot.
+- Abuse commands or intentionally overload the Bot.
+- Attempt to bypass security or moderation systems.
+- Use the Bot for illegal activities.
+- Exploit bugs or vulnerabilities for unauthorized access.
+
+2. Bot Features
+
+Mishi may provide features including:
+
+- Music playback and audio controls.
+- Prefix-based commands.
+- Automated moderation and spam protection.
+- Message deletion and timeout punishments.
+- Moderation logs.
+- Server configuration and utility commands.
+
+Features may change, become unavailable, or be discontinued without prior notice.
+
+3. Server Administrator Responsibilities
+
+Server administrators are responsible for:
+
+- Configuring Mishi's permissions appropriately.
+- Selecting suitable AutoMod rules and punishments.
+- Managing access to moderation logs.
+- Ensuring that moderation settings comply with applicable laws and Discord policies.
+- Informing their members about relevant server moderation practices.
+
+Mishi is a moderation tool. Server administrators remain responsible for decisions made using its features.
+
+4. Automated Moderation
+
+Mishi may automatically detect and respond to messages that violate configured moderation rules.
+
+Possible actions include:
+
+- Deleting messages.
+- Sending temporary warnings.
+- Applying timeouts.
+- Recording moderation actions in a designated logging channel.
+
+Automated systems may occasionally produce incorrect results. Server administrators should review moderation actions where appropriate.
+
+5. Availability
+
+We aim to keep Mishi available and functional, but uninterrupted service is not guaranteed.
+
+The Bot may experience downtime due to maintenance, technical problems, hosting issues, Discord API limitations, or external service outages.
+
+We reserve the right to modify, suspend, or discontinue any feature.
+
+6. Third-Party Services
+
+Mishi may rely on Discord, music providers, hosting providers, and other third-party services.
+
+We are not responsible for outages, policy changes, or service interruptions caused by third-party providers.
+
+Your use of those services may also be subject to their own terms and policies.
+
+7. Restrictions and Termination
+
+We reserve the right to restrict or terminate access to Mishi if users or servers abuse the Bot, violate these Terms, or create security or operational risks.
+
+Server administrators may remove Mishi from their servers at any time.
+
+8. Disclaimer
+
+Mishi is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind to the extent permitted by applicable law.
+
+We do not guarantee that the Bot will always be error-free, uninterrupted, or compatible with every Discord server configuration.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Bot's operator shall not be liable for indirect, incidental, special, or consequential damages arising from the use or inability to use Mishi.
+
+Nothing in these Terms excludes liability that cannot legally be excluded under applicable law.
+
+10. Changes to These Terms
+
+We may revise these Terms when necessary. Updated versions will be published at this page.
+
+Continued use of Mishi after changes take effect constitutes acceptance of the updated Terms, to the extent permitted by applicable law.
+
+11. Contact
+
+For questions or concerns regarding these Terms, contact:
+
+Bot: Mishi
+Discord Support Server: https://discord.gg/pwMHAKrJwj
+Contact Email: himanshu.dev.contact@gmail.com
