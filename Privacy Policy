@@ -1,0 +1,98 @@
+Mishi Bot — Privacy Policy
+
+Effective Date: November 24, 2026
+Last Updated: November 24, 2026
+
+Mishi ("the Bot", "we", "our", or "us") is a multipurpose Discord bot that provides music, moderation, AutoMod, and server utility features.
+
+This Privacy Policy explains what information Mishi processes, why it is processed, and how it is handled when you use the Bot.
+
+1. Information We Process
+
+Depending on the features enabled in a Discord server, Mishi may process the following information:
+
+- Discord user IDs.
+- Discord server (guild) IDs.
+- Channel IDs.
+- Usernames and display names.
+- Message content when required for prefix commands and AutoMod.
+- Moderation information, including detected violations, deleted messages, and timeout actions.
+- Server-specific AutoMod configurations, including blocked words, enabled rules, punishment settings, and exempt roles or channels.
+- Music-related information required to operate playback commands and players.
+
+2. How We Use Information
+
+Mishi processes information to:
+
+- Execute prefix commands and requested bot features.
+- Detect spam, Discord invite links, prohibited words, excessive mentions, and other configured AutoMod violations.
+- Delete messages that violate server moderation rules.
+- Apply configured moderation punishments, including timeouts.
+- Record moderation actions in the server's designated AutoMod logging channel.
+- Save server-specific bot configurations.
+- Maintain the security, reliability, and functionality of the Bot.
+
+3. Message Content
+
+Mishi may access message content through Discord's Message Content privileged intent.
+
+Message content is processed for prefix commands and moderation features.
+
+When AutoMod detects a violation, the offending message may be deleted and its content may be included in a moderation log in the server's designated "#mishi-automod" channel.
+
+Access to these logs is controlled through Discord server channel permissions. Server administrators are responsible for configuring appropriate access.
+
+4. Data Storage and Retention
+
+Mishi's AutoMod configuration is stored in a local JSON data file on the Bot's hosting environment.
+
+Moderation action logs are sent to the designated Discord server channel.
+
+Temporary spam-detection information may be held in memory while the Bot is running.
+
+Information is retained only as needed for the operation of the relevant features and applicable moderation records. Discord messages and logs may remain available according to the server's own retention and deletion practices.
+
+5. Data Sharing
+
+We do not sell users' personal information.
+
+We do not use message content to train artificial intelligence or machine-learning models.
+
+Mishi uses Discord's services and may interact with external music providers or hosting infrastructure to deliver its features. Those services may process information according to their own privacy policies.
+
+6. User Choices and Controls
+
+Server administrators can:
+
+- Enable or disable AutoMod.
+- Configure individual moderation rules.
+- Configure punishment settings.
+- Add or remove blocked words.
+- Configure exempt roles and channels.
+- Manage access to the moderation log channel.
+
+Users who have questions about information processed by Mishi can contact the Bot's operator.
+
+7. Data Security
+
+We take reasonable measures to protect information processed by Mishi. However, no online service or storage system can be guaranteed to be completely secure.
+
+Server administrators should restrict access to moderation logs and protect their server configuration and hosting environment.
+
+8. Children's Privacy
+
+Mishi is a Discord service and is subject to Discord's applicable age requirements and policies. We do not knowingly collect personal information from children in violation of applicable laws.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy when Bot features, data practices, or legal requirements change. Updates will be published at this page.
+
+10. Contact
+
+For privacy questions, data-related requests, or concerns regarding Mishi, contact:
+
+Bot: Mishi
+Discord Support Server: https://discord.gg/pwMHAKrJwj
+Contact Email: himanshu.dev.contact@gmail.com
+
+By using Mishi, you acknowledge this Privacy Policy.
